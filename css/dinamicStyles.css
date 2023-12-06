@@ -1,0 +1,17 @@
+.result-box-deafult {
+  background: var(--verde);
+  color: #01cd26;
+}
+
+.result-correct-answear {
+  color: #fff;
+  background-color: #37c978;
+}
+
+.status-correct {
+  color: #fff;
+}
+
+.incorrect-answear {
+  color:  #de4251;
+}
