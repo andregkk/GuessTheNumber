@@ -17,9 +17,9 @@
 
 - O processo se repete até que o jogador acerte o número escolhido pelo computador.
 
-## Tela Incial do jogo
+## Interface do jogo
 
-![App Screenshot]()
+![App Screenshot](https://github.com/andregkk/GuessTheNumber/blob/abd6f9a130fd22cfdf2970420e855619bd8e53e1/Captura%20de%20tela%202023-12-21%20133151.png)
 
 ## Link para acessar o jogo: 
 
