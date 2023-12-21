@@ -17,6 +17,10 @@
 
 - O processo se repete até que o jogador acerte o número escolhido pelo computador.
 
+## Tela Incial do jogo
+
+![App Screenshot]()
+
 ## Link para acessar o jogo: 
 
 - [GuessTheNumber](https://andregkk.github.io/GuessTheNumber/) 
